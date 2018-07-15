@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  14 JUL 2018 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  14 JUL 2018 20:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -206,7 +206,7 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 \ULC@box=\box28
 Package: ulem 2012/05/18
 \ULdepth=\dimen112
-))
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@cnth=\count101
@@ -221,7 +221,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layouthoffset=\dimen119
 \Gm@layoutvoffset=\dimen120
 \Gm@dimlist=\toks22
-)
+))
 (./resume.aux)
 \openout1 = `resume.aux'.
 
@@ -292,14 +292,14 @@ LaTeX Info: Redefining \nameref on input line 3.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(18.0675pt, 578.15999pt, 18.0675pt)
-* v-part:(T,H,B)=(14.45398pt, 758.83499pt, 21.68102pt)
+* v-part:(T,H,B)=(28.90799pt, 722.7pt, 43.362pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=578.15999pt
-* \textheight=758.83499pt
+* \textheight=722.7pt
 * \oddsidemargin=-54.20248pt
 * \evensidemargin=-54.20248pt
-* \topmargin=-94.81601pt
+* \topmargin=-80.362pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -326,23 +326,23 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 7.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 157.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 157.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 5909 strings out of 492995
- 86836 string characters out of 6132704
- 182338 words of memory out of 5000000
- 9414 multiletter control sequences out of 15000+600000
+ 5910 strings out of 492995
+ 86846 string characters out of 6132704
+ 183322 words of memory out of 5000000
+ 9415 multiletter control sequences out of 15000+600000
  11969 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,5n,33p,674b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -351,7 +351,7 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 85262 bytes).
+Output written on resume.pdf (1 page, 85407 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream

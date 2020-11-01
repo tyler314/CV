@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  31 JUL 2020 15:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  1 NOV 2020 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,32 +347,32 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
  [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 192.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
  ) 
 Here is how much of TeX's memory you used:
- 6038 strings out of 480608
- 92514 string characters out of 5903631
- 363840 words of memory out of 5000000
- 21818 multiletter control sequences out of 15000+600000
- 540667 words of font info for 57 fonts, out of 8000000 for 9000
+ 6013 strings out of 480608
+ 92252 string characters out of 5903631
+ 362848 words of memory out of 5000000
+ 21801 multiletter control sequences out of 15000+600000
+ 536320 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,5n,37p,268b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,5n,37p,320b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 88778 bytes).
+Output written on resume.pdf (1 page, 84062 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream

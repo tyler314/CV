@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.7)  16 NOV 2022 14:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.6)  3 OCT 2023 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -327,14 +327,14 @@ LaTeX Info: Redefining \nameref on input line 3.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(18.0675pt, 578.15999pt, 18.0675pt)
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
 * v-part:(T,H,B)=(28.90799pt, 722.7pt, 43.362pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=578.15999pt
+* \textwidth=505.89pt
 * \textheight=722.7pt
-* \oddsidemargin=-54.20248pt
-* \evensidemargin=-54.20248pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
 * \topmargin=-80.362pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -369,22 +369,24 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9010 strings out of 478268
- 143071 string characters out of 5846348
- 450474 words of memory out of 5000000
- 27113 multiletter control sequences out of 15000+600000
- 473241 words of font info for 44 fonts, out of 8000000 for 9000
+ 9031 strings out of 478268
+ 143277 string characters out of 5846348
+ 450471 words of memory out of 5000000
+ 27126 multiletter control sequences out of 15000+600000
+ 476655 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,77p,509b,319s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
-r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 86918 bytes).
+ 75i,5n,77p,488b,319s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
+/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/lo
+cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on resume.pdf (1 page, 109488 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

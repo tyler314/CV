@@ -1,4 +1,6 @@
-.aux
-.out
-.log
-.swp
+*.aux
+*.out
+*.log
+*.swp
+*.gz
+*.DS_Store

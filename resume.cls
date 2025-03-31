@@ -12,5 +12,5 @@
 \newcommand\ttab[1][1cm]{\hspace*{#1}}
 \newcommand{\longunderline}[1]{\uline{#1\hfill\mbox{}}}
 \renewcommand{\baselinestretch}{1.15} % Determines line spacing
-\RequirePackage[letterpaper, total={6.5in, 9.5in}]{geometry}
+\RequirePackage[letterpaper, top=1in,bottom=0.75in,left=0.8in,right=0.8in]{geometry}
 \pagenumbering{gobble}
